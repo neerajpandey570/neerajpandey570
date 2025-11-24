@@ -131,14 +131,6 @@ A full-stack e-commerce platform tailored for college students.
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neerajpandey570&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neerajpandey570&layout=compact&theme=radical)
-
----
-
 ## Let's Connect
 
 I'm always interested in collaborating on exciting projects and exploring new opportunities in software development and data science. Feel free to reach out!
