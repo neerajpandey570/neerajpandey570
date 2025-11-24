@@ -40,24 +40,49 @@ A comprehensive data mining and machine learning dashboard for customer behavior
 
 [View Project](https://github.com/neerajpandey570/bankapp) | [Documentation](https://github.com/IIITLucknowDMW/bank-analysis-webapp)
 
-### Board Management System
-A collaborative board application with real-time synchronization and multiple user support.
+### Splitwise
+A budget management and expense splitting application.
 
-**Tech Stack:** Next.js, TypeScript, Zustand, Liveblocks, Convex, Clerk, Tailwind CSS
+**Tech Stack:** JavaScript
 
 **Key Features:**
-- Real-time collaboration with live cursors and comments
-- Persistent board state management
-- OAuth2 authentication
-- Responsive design with <1s synchronization latency
-- Live site deployed and tested with 100+ concurrent users
+- Track shared expenses
+- Settle payments between friends
+- Expense categorization
+- Real-time balance calculations
 
-[View Project](https://github.com/neerajpandey570/board) | Live Site Available
+[View Project](https://github.com/neerajpandey570/splitwise)
 
-### College Marketplace
+### ByteNest
+A web application for organizing and managing code snippets efficiently.
+
+**Tech Stack:** JavaScript
+
+**Key Features:**
+- Snippet storage and organization
+- Syntax highlighting
+- Search and filter capabilities
+- Easy sharing functionality
+
+[View Project](https://github.com/neerajpandey570/ByteNest)
+
+### Miro
+A collaborative whiteboarding and design tool.
+
+**Tech Stack:** TypeScript
+
+**Key Features:**
+- Real-time collaboration
+- Drawing and design tools
+- Multiple canvas support
+- Team workspace management
+
+[View Project](https://github.com/neerajpandey570/miro)
+
+### CollegeMarketPlace
 A full-stack e-commerce platform tailored for college students.
 
-**Tech Stack:** HTML, CSS, React, JavaScript, Express, MongoDB
+**Tech Stack:** JavaScript, Express, MongoDB
 
 **Key Features:**
 - User authentication and profile management
@@ -66,7 +91,20 @@ A full-stack e-commerce platform tailored for college students.
 - Responsive UI with 40% faster search performance
 - Real-time inventory management
 
-[View Project](https://github.com/neerajpandey570/college-marketplace)
+[View Project](https://github.com/neerajpandey570/CollegeMarketPlace)
+
+### Azure Quickstart Templates
+Forked from Azure/azure-quickstart-templates - Infrastructure as Code templates for Azure deployments.
+
+**Tech Stack:** Bicep, ARM Templates
+
+**Key Features:**
+- Pre-built Azure resource templates
+- Infrastructure automation
+- Cost-effective deployments
+- Best practice implementations
+
+[View Project](https://github.com/neerajpandey570/azure-quickstart-templates)
 
 ---
 
