@@ -66,7 +66,7 @@ A web application for organizing and managing code snippets efficiently.
 
 [View Project](https://github.com/neerajpandey570/ByteNest)
 
-### Miro
+### Whiteboard
 A collaborative whiteboarding and design tool.
 
 **Tech Stack:** TypeScript
@@ -77,7 +77,7 @@ A collaborative whiteboarding and design tool.
 - Multiple canvas support
 - Team workspace management
 
-[View Project](https://github.com/neerajpandey570/miro)
+[View Project](https://github.com/neerajpandey570/whiteboard)
 
 ### CollegeMarketPlace
 A full-stack e-commerce platform tailored for college students.
