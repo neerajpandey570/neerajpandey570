@@ -1,18 +1,18 @@
-# Hi there, I'm Neeraj Pandey 👋
+# Hi there, I'm Neeraj Pandey
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neeraj-pandey-180375248/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/neerajpandey570)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lcs2022034@iiitl.ac.in)
 
-## 📍 Location
+## Location
 Lucknow, India
 
-## 📧 Contact
+## Contact
 **Email:** lcs2022034@iiitl.ac.in
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a passionate developer and data science enthusiast with expertise in building scalable web applications and intelligent data-driven solutions. Currently pursuing B.Tech in Computer Science at **Indian Institute of Information Technology, Lucknow**.
 
@@ -24,9 +24,9 @@ With a strong foundation in full-stack development and machine learning, I speci
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🏦 Bank Analysis Dashboard
+### Bank Analysis Dashboard
 A comprehensive data mining and machine learning dashboard for customer behavior analysis.
 
 **Tech Stack:** Dash, Plotly, XGBoost, K-Means Clustering, Isolation Forest, Python
@@ -38,9 +38,9 @@ A comprehensive data mining and machine learning dashboard for customer behavior
 - Interactive visualizations and insights
 - Real-time data analytics
 
-📊 [View Project](https://github.com/neerajpandey570/bankapp) | 📋 [Documentation](https://github.com/IIITLucknowDMW/bank-analysis-webapp)
+[View Project](https://github.com/neerajpandey570/bankapp) | [Documentation](https://github.com/IIITLucknowDMW/bank-analysis-webapp)
 
-### 📋 Board Management System
+### Board Management System
 A collaborative board application with real-time synchronization and multiple user support.
 
 **Tech Stack:** Next.js, TypeScript, Zustand, Liveblocks, Convex, Clerk, Tailwind CSS
@@ -52,9 +52,9 @@ A collaborative board application with real-time synchronization and multiple us
 - Responsive design with <1s synchronization latency
 - Live site deployed and tested with 100+ concurrent users
 
-🔗 [View Project](https://github.com/neerajpandey570/board) | 🌐 Live Site Available
+[View Project](https://github.com/neerajpandey570/board) | Live Site Available
 
-### 🛒 College Marketplace
+### College Marketplace
 A full-stack e-commerce platform tailored for college students.
 
 **Tech Stack:** HTML, CSS, React, JavaScript, Express, MongoDB
@@ -66,11 +66,11 @@ A full-stack e-commerce platform tailored for college students.
 - Responsive UI with 40% faster search performance
 - Real-time inventory management
 
-🏪 [View Project](https://github.com/neerajpandey570/college-marketplace)
+[View Project](https://github.com/neerajpandey570/college-marketplace)
 
 ---
 
-## 💼 Experience
+## Experience
 
 ### Microsoft Internship Certificate
 **Duration:** June 2025 - Aug 2025 | **Location:** Hyderabad
@@ -85,7 +85,7 @@ A full-stack e-commerce platform tailored for college students.
 
 ---
 
-## 🎓 Education
+## Education
 
 **Indian Institute of Information Technology, Lucknow**
 - B.Tech in Computer Science
@@ -99,7 +99,7 @@ A full-stack e-commerce platform tailored for college students.
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### Languages
 `C/C++` `Python` `HTML/CSS` `JavaScript` `TypeScript`
@@ -121,17 +121,17 @@ A full-stack e-commerce platform tailored for college students.
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
-- ⭐ **3-star CodeChef rating** | Solved 150+ DSA problems
-- 🎖️ **Specialist rank on CodeForces** | Active competitive programmer
-- 📊 **Solved 400+ LeetCode problems** | Strong problem-solving foundation
-- 🏃 **Proactive team member** | Led cross-functional teams at IIIT Lucknow Incubation Centre
-- 🎭 **Corporate Relations Executive** | Organized Equinox (annual techno-cultural fest)
+- 3-star CodeChef rating | Solved 150+ DSA problems
+- Specialist rank on CodeForces | Active competitive programmer
+- Solved 400+ LeetCode problems | Strong problem-solving foundation
+- Proactive team member | Led cross-functional teams at IIIT Lucknow Incubation Centre
+- Corporate Relations Executive | Organized Equinox (annual techno-cultural fest)
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neerajpandey570&show_icons=true&theme=radical)
 
@@ -139,7 +139,7 @@ A full-stack e-commerce platform tailored for college students.
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 I'm always interested in collaborating on exciting projects and exploring new opportunities in software development and data science. Feel free to reach out!
 
