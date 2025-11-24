@@ -127,13 +127,7 @@ Forked from Azure/azure-quickstart-templates - Infrastructure as Code templates 
 
 **Indian Institute of Information Technology, Lucknow**
 - B.Tech in Computer Science
-- CGPA: 7.1/10
 - Aug 2022 - Jun 2026
-
-**Ryan International School, Greater Noida**
-- CBSE Class XII
-- Percentage: 85.8%
-- Apr 2021 - Mar 2022
 
 ---
 
